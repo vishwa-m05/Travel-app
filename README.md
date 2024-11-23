@@ -18,5 +18,8 @@ A project built using the Android Compose UI toolkit. It demonstrates how to cre
 /Demo video/
 ====
 
+https://github.com/user-attachments/assets/1d3ce209-a16b-4ed5-85d2-eaecc9ea010f
+
+
 https://github.com/vishwa-m05/Travel-app/tree/main
 
